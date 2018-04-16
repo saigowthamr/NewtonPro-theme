@@ -1,0 +1,27 @@
+{
+  "name": "newton-pro",
+  "displayName": "Newton Pro theme",
+  "description":
+    "Newton Pro Theme With Better Syntax Highlighting that makes code easier",
+  "version": "0.0.1",
+  "publisher": "saigowthamr",
+  "icon": "images/logo.png",
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": ["Themes"],
+  "keywords": ["atom", "dark", "blackgold", "moon", "material"],
+  "galleryBanner": {
+    "color": "#193549",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Newton Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moon Pro-color-theme.json"
+      }
+    ]
+  }
+}
