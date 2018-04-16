@@ -11,7 +11,7 @@
                             ---          ----
 ----------------------------------------------------------------------------------
 
-![Preview](https://raw.githubusercontent.com/saigowthamr/NewtonPro-theme/master/images/mycss.png)
+![Preview](./images/mycss.png)
 
 
 
