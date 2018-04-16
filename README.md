@@ -3,12 +3,12 @@
 ## New  "Newtonpro"  Theme  With  dark&light colors .
 
 ## Newton Pro
-![Preview](https://raw.githubusercontent.com/saigowthamr/Blackgold/master/images/blackgold3.png)
+![Preview](https://raw.githubusercontent.com/saigowthamr/NewtonPro-theme/master/images/Newtonpro.png)
 
 ----------------------------------------------------------------------------------
-----         ----
----NEWTON PRO----
----          ----
+                            ----         ----
+                            ---NEWTON PRO----
+                            ---          ----
 ----------------------------------------------------------------------------------
 
 
