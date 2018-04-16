@@ -15,12 +15,16 @@
     "color": "#193549",
     "theme": "dark"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saigowthamr/NewtonPro-theme"
+  },
   "contributes": {
     "themes": [
       {
         "label": "Newton Pro",
         "uiTheme": "vs-dark",
-        "path": "./themes/Moon Pro-color-theme.json"
+        "path": "./themes/Newton Pro-color-theme.json"
       }
     ]
   }
