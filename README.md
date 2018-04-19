@@ -21,9 +21,9 @@
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `blackgold`
+2. Search for `newton pro`
 3. Click **Install** to install it.
-4. Click **Reload** to reload the your editor
+4. Click **Reload** to reload  your editor
 5. Code > Preferences > Color Theme > **Newton Pro**
 6. Optional: Use the recommended settings below for best experience
 
