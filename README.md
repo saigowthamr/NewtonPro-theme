@@ -64,5 +64,5 @@
 
 
 
-If you do like this theme,Give a [Github Star](https://github.com/saigowthamr/NewtonPro-theme) ✋ and Nice Rating It helps to other users .Thanks so much!
+If you do like this theme,Give a [Github Star](https://github.com/saigowthamr/NewtonPro-theme) ✋ and Nice Rating It helps to other users .
 
