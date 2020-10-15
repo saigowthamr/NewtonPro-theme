@@ -59,10 +59,14 @@
 }
 ```
 
+## Installation
 
-# Happy coding
+Newton PRO theme can be installed through the package/extension/plugin manager by searching for "newton-pro".
 
+## Author blogs
 
+- [Sai gowtham](https://reactgo.com)
+
+---
 
 If you do like this theme,Give a [Github Star](https://github.com/saigowthamr/NewtonPro-theme) ✋ and Nice Rating It helps to other users .
-
